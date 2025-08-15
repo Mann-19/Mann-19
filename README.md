@@ -42,28 +42,19 @@ I'm **Mann Prajapati**, a passionate **Full-Stack Developer** and **AI/ML Engine
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mann-19&show_icons=true&theme=radical" alt="Mann's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mann-19&theme=radical" alt="Mann's GitHub Streak" width="48%" />
-</p>
-
----
-
 ## 🎨 Featured Projects
 
-### 🌐 Google Docs Clone
-- **Tech Stack:** React, Firebase, WebSockets
-- **Description:** A real-time collaborative text editor inspired by Google Docs.
+### 📖 EduMarg Online LMS
+- **Tech Stack:** React, NodeJS, MongoDB
+- **Description:** A fully customizable Learning Management System for universities, organizations or individuals with a knack for learning.
 
-### 💵 Expense Tracker
-- **Tech Stack:** React, Context API, Bootstrap
-- **Description:** A simple app to track daily expenses with dynamic updates.
+### 🪙 SkillSwap
+- **Tech Stack:** React, Supabase
+- **Description:** A Social Skill Board to exchange skills with anyone globally. Barter based learning or task exchange.
 
-### 📧 Gmail API Automation
-- **Tech Stack:** Gmail API, Python
-- **Description:** Automates email sending for registrations or account activities.
+### 🗣️ IELTS Preparation AI
+- **Tech Stack:** NextJS, TailwindCSS, Supabase
+- **Description:** Give mock tests, prepare from modules with approved by consultancies nation-wide. Perfect partner to practice for migration language tests.
 
 ---
 
