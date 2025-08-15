@@ -1,6 +1,6 @@
 # Hi there, I'm Mann Prajapati! 👋
 
-![Profile Banner](https://res.cloudinary.com/dicn6lxjr/image/upload/v1737192068/Github-Cover-Img_iwqaih.jpg)
+![Profile Banner](./Github-Cover-Img.jpg)
 
 ## 🚀 About Me
 
